@@ -21,5 +21,5 @@ const isPalindrome = (str) => {
 
     return true;
 }
-const inputStr = "Madam"; //A man, a plan, a canal, Panama
+const inputStr = "313"; //A man, a plan, a canal, Panama
 console.log(isPalindrome(inputStr));
